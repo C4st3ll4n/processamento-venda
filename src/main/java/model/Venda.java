@@ -66,4 +66,7 @@ public class Venda {
         this.quantidadeIngressos = quantidadeIngressos;
         this.valorTotal = valorTotal;
     }
+
+    public Venda() {
+    }
 }
